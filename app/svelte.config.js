@@ -16,7 +16,8 @@ const config = {
 			'@/*': './path/to/lib/*',
 			$lib: './src/lib',
 			$src: './src',
-			$components: './src/components'
+			$components: './src/components',
+			$stores: './src/routes/stores'
 		}
 	}
 };

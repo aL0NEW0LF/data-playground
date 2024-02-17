@@ -4,7 +4,7 @@
 </script>
 
 <div class="">
-	<main class="mx-96 my-32">
+	<main class="">
 		<slot />
 	</main>
 </div>
